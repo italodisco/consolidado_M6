@@ -4,7 +4,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li>
-            <router-link class="nav-link" to="/">Home</router-link>
+            <router-link class="nav-link" to="/">Inicio</router-link>
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/admin">Tu Cuenta</router-link>
